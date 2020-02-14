@@ -34,7 +34,8 @@ t = 4.                      # The hopping energy
 #%%
 #------------------------------------------------------------------------------
 # Creating the matrix of connection. 1 denotes that the two sites (i,j) are 
-# connected. It is simple to see that the matrix is symmetric
+# connected. It is simple to see that the matrix is symmetric. Uncomment the 
+# different matrices according to whether you want 1-D, 2-D or 3-D system.
 #------------------------------------------------------------------------------
 
 n = 4       # n denotes the number of sites
